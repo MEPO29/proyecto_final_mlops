@@ -220,7 +220,7 @@ Distribución:
 
 Para considerar el proyecto exitoso, se deben alcanzar:
 
-1. **Precisión del modelo:** MAE (Mean Absolute Error) < 15% en predicciones
+1. **Precisión del modelo:** ROC-AUC >= 0.85
 2. **Reducción de merma:** De 22% a menos de 10% en 6 meses
 3. **Reducción de stockouts:** De 450/semana a menos de 150/semana
 4. **Adopción del sistema:** 90% del equipo de compras usando el sistema regularmente
