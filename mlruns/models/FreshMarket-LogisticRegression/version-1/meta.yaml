@@ -1,0 +1,15 @@
+creation_timestamp: 1762925104163
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762925104163
+model_id: m-27df996db2514934ad29794194257cfb
+name: FreshMarket-LogisticRegression
+run_id: 76429692158d498d8e41526108430139
+run_link: ''
+source: models:/m-27df996db2514934ad29794194257cfb
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/757363224563332258/models/m-27df996db2514934ad29794194257cfb/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+creation_timestamp: 1762925421228
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762925421228
+model_id: m-18dcb1902b1d4f79a87394fd93bcb98c
+name: FreshMarket-LightGBM
+run_id: baaa1e209c1f4d179a5f295a5dba45fe
+run_link: ''
+source: models:/m-18dcb1902b1d4f79a87394fd93bcb98c
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/757363224563332258/models/m-18dcb1902b1d4f79a87394fd93bcb98c/artifacts
+user_id: null
+version: 1

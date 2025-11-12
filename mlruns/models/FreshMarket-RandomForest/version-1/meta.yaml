@@ -1,0 +1,15 @@
+creation_timestamp: 1762925261800
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762925261800
+model_id: m-e399d35df4474690af1ac6d82319a81b
+name: FreshMarket-RandomForest
+run_id: 5541cbdd72d84057b3f3a8ecdd218d33
+run_link: ''
+source: models:/m-e399d35df4474690af1ac6d82319a81b
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/757363224563332258/models/m-e399d35df4474690af1ac6d82319a81b/artifacts
+user_id: null
+version: 1
