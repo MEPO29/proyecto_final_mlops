@@ -2,7 +2,7 @@
 
 ## 📁 Archivos del Proyecto
 ```
-fase2-comprension-datos/
+fase2/
 ├── README.md
 ├── crear_dataset.py
 ├── freshmarket_dataset.csv
