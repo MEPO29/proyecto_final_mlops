@@ -1,0 +1,12 @@
+{
+  "tp": 272,
+  "tn": 503,
+  "fp": 113,
+  "fn": 112,
+  "net_dataset": 13090.0,
+  "est_monthly_net": 130900.0,
+  "est_annual_net": 1570800.0,
+  "cost_fp": 3955.0,
+  "cost_fn": 560.0,
+  "gain_tn": 17605.0
+}
